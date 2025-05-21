@@ -1,4 +1,8 @@
 Hello, I'm trying to write files on your computer. If you see this file it means I've found a way to download anything to your computer, which is really dangerous...
 
+你好啊，我正在测试一个mihomo的漏洞，如果你看到这个文件那说明你的电脑上是有这个漏洞的（
+
+我在你的电脑上什么都没做，只写了这些文件提醒你一下（
+
 PuddinCat
 @puddincat07 at Telegram / @PuddinCat at Github
